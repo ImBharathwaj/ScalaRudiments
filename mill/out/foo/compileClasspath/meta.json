@@ -1,0 +1,8 @@
+{
+    "value": [
+        "ref:c984eca8:/home/bharathwaj/Code/ScalaRudiments/example-3/foo/resources",
+        "qref:99109e11:/home/bharathwaj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.2/scala-library-2.13.2.jar"
+    ],
+    "valueHash": 1653967545,
+    "inputsHash": -1008065788
+}
